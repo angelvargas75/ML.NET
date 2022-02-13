@@ -1,0 +1,11 @@
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\bin\Debug\netstandard2.0\PredictiveMaintenanceML.Model.deps.json
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\bin\Debug\netstandard2.0\PredictiveMaintenanceML.Model.dll
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\bin\Debug\netstandard2.0\PredictiveMaintenanceML.Model.pdb
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\obj\Debug\netstandard2.0\PredictiveMaintenanceML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\obj\Debug\netstandard2.0\PredictiveMaintenanceML.Model.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\obj\Debug\netstandard2.0\PredictiveMaintenanceML.Model.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\obj\Debug\netstandard2.0\PredictiveMaintenanceML.Model.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\obj\Debug\netstandard2.0\PredictiveMaintenanceML.Model.dll
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\obj\Debug\netstandard2.0\PredictiveMaintenanceML.Model.pdb
+C:\Users\ANGEL\source\repos\PredictiveMaintenanceML.Model\obj\Debug\netstandard2.0\PredictiveMaintenanceML.Model.csproj.AssemblyReference.cache

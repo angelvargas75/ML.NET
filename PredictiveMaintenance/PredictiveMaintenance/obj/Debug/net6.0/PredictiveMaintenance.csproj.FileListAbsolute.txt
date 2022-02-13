@@ -1,0 +1,16 @@
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\bin\Debug\net6.0\PredictiveMaintenance.deps.json
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\bin\Debug\net6.0\PredictiveMaintenance.dll
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\bin\Debug\net6.0\ref\PredictiveMaintenance.dll
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\bin\Debug\net6.0\PredictiveMaintenance.pdb
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\PredictiveMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\PredictiveMaintenance.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\PredictiveMaintenance.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\PredictiveMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\PredictiveMaintenance.dll
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\ref\PredictiveMaintenance.dll
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\PredictiveMaintenance.pdb
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\bin\Debug\net6.0\MLModel.zip
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\bin\Debug\net6.0\PredictiveMaintenanceML.Model.dll
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\bin\Debug\net6.0\PredictiveMaintenanceML.Model.pdb
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\PredictiveMaintenance.csproj.AssemblyReference.cache
+C:\Users\ANGEL\source\repos\PredictiveMaintenance\obj\Debug\net6.0\PredictiveMaintenance.csproj.CopyComplete
